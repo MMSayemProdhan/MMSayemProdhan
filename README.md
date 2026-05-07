@@ -1,4 +1,5 @@
-### Hi there 👋, I'm M.M. Sayem Prodhan
+### Hi there 👋, 
+######I'm M.M. Sayem Prodhan
 #### Full-Stack Developer  • Competitive Programmer
 Fresher Full-Stack Developer with knowledge of HTML, CSS, JavaScript, Node.js, MongoDB, and MySQL. Passionate about building web applications, learning modern technologies, and improving problem-solving skills through continuous practice and real-world projects. 
 Eager to grow as a developer and contribute to innovative software solutions.
@@ -21,7 +22,7 @@ Skills:   REACT / JS / HTML / CSS/ MySQL/ JAVA/ C
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MMSayemProdhan&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/MMSayemProdhan/contributions?format=svg&private=false)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/MMSayemProdhan)  
 
